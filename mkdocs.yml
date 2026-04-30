@@ -1,0 +1,24 @@
+site_name: Meatcorps Raylib-cs Notes
+site_description: Unofficial practical notes for building games and tools with Raylib-cs and C#.
+site_author: Dennis Steffen
+
+nav:
+  - Home: index.md
+  - Raylib-cs:
+    - Overview: raylib-cs.md
+    - Getting Started Hello World!: raylibcs/gettingstarted.md
+
+theme:
+  name: mkdocs
+  language: en
+  user_color_mode_toggle: true
+  color_mode: auto
+
+extra_css:
+  - stylesheets/meatcorps.css
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true

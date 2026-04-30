@@ -1,0 +1,24 @@
+a {
+    color: #00ffff;
+}
+
+a.nav-link {
+    color: #00FFFF;
+}
+
+html[data-bs-theme="light"] a {
+    color: #008383;
+}
+
+h1, h2, h3 {
+    color: #ff00ff;
+}
+
+
+html[data-bs-theme="light"] h1, html[data-bs-theme="light"] h2, html[data-bs-theme="light"] h3 {
+    color: #d000d8;
+}
+
+.navbar.bg-primary {
+    background-image: linear-gradient(#535353, #232323 60%, #100d0d);
+}
