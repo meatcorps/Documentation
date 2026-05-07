@@ -19,7 +19,7 @@ Below you can find all sections in this guide. Each group is divided by difficul
 ## Beginner
 
 - [Getting started: Hello World](raylibcs/gettingstarted.md)
-- Debugging
+- [Raylib-cs Practical Debugging Tips](raylibcs/debugging.md)
 - Textures
 - Audio
 - Input

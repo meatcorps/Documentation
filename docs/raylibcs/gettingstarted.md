@@ -503,6 +503,10 @@ public readonly struct RaylibTexture : IDisposable
 }
 ```
 
+## Want more examples?
+- [Raylib-cs examples](https://github.com/raylib-cs/raylib-cs/tree/main/examples)
+- [Raylib examples](https://github.com/raysan5/raylib/tree/master/examples)
+
 ## TL;DR
 
 - Create a new C# console project

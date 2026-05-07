@@ -29,7 +29,7 @@ Proper C# game development resources outside of Unity can be surprisingly hard t
 
 ## Raylib-cs
 - [X] (Beginner) Getting started: Hello World
-- [ ] (Beginner) Debugging
+- [X] (Beginner) Debugging
 - [ ] (Beginner) Textures
 - [ ] (Beginner) Audio
 - [ ] (Beginner) Input
