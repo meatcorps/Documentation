@@ -8,6 +8,7 @@ nav:
     - Overview: raylib-cs.md
     - Getting Started Hello World!: raylibcs/gettingstarted.md
     - Practical Debugging Tips: raylibcs/debugging.md
+    - Post-processing stack: raylibcs/postprocessing.md
 
 theme:
   name: mkdocs

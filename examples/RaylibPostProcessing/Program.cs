@@ -68,6 +68,8 @@ internal static class Program
         }
 
         // Unload everything! We don't want to leak memory!
+        foreach (var shader in shaders)
+            shader.Dispose();
         Raylib.UnloadRenderTexture(renderLayer);
         Raylib.UnloadTexture(frameTexture);
         Raylib.UnloadTexture(imageTexture);

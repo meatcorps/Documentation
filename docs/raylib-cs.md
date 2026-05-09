@@ -27,6 +27,7 @@ Below you can find all sections in this guide. Each group is divided by difficul
 
 ## Intermediate
 
+- [Post-processing stack in Raylib-cs](raylibcs/postprocessing.md)
 - Garbage Collector
 - ImGui
 - Web builds
