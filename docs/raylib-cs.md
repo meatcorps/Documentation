@@ -20,7 +20,7 @@ Below you can find all sections in this guide. Each group is divided by difficul
 
 - [Getting started: Hello World](raylibcs/gettingstarted.md)
 - [Raylib-cs Practical Debugging Tips](raylibcs/debugging.md)
-- Textures
+- [textures for 2D games and simple animations!](raylibcs/textures.md)
 - Audio
 - Input
 - C to C# guide
