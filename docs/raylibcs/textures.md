@@ -869,4 +869,8 @@ You can see the different blending modes!
 - NPatch is great for UI elements
 - Blend modes are great for special effects
 
+Full example code can be found here:
+
+https://github.com/meatcorps/Documentation/blob/main/examples/RaylibTextures/Program.cs
+
 Thank you for reading!
