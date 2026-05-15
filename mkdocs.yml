@@ -1,6 +1,7 @@
 site_name: Meatcorps Raylib-cs Notes
 site_description: Unofficial practical notes for building games and tools with Raylib-cs and C#.
 site_author: Dennis Steffen
+site_url: https://docs.meatcorps.nl/
 
 nav:
   - Home: index.md
