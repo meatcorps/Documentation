@@ -7,10 +7,11 @@ nav:
   - Home: index.md
   - Raylib-cs:
     - Overview: raylib-cs.md
-    - Getting Started Hello World!: raylibcs/gettingstarted.md
-    - Practical Debugging Tips: raylibcs/debugging.md
-    - Textures for 2D games and simple animations: raylibcs/textures.md
-    - Post-processing stack: raylibcs/postprocessing.md
+    - Raylib-cs 7.0.2 to 8.0.0 Upgrade to Raylib 6.0!: raylibcs/release55to60.md
+    - Raylib-cs Getting Started Hello World!: raylibcs/gettingstarted.md
+    - Raylib-cs Practical Debugging Tips: raylibcs/debugging.md
+    - Raylib-cs Textures for 2D games and simple animations: raylibcs/textures.md
+    - Raylib-cs Post-processing stack: raylibcs/postprocessing.md
 theme:
   name: mkdocs
   language: en

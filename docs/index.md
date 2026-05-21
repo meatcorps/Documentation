@@ -25,12 +25,19 @@ You can expect:
 
 Proper C# game development resources outside of Unity can be surprisingly hard to find, so this is my attempt to document what I learn while building real projects.
 
+# News!
+
+Raylib-cs 8.0.0 is in the oven! This version will be compatible with Raylib 6.0.0!
+You can check my notes here: [7.0.2 to 8.0.0 Upgrade to Raylib 6.0!](raylibcs/release55to60.md).
+
+*Yes I helped contribute to the Raylib-CS 8.0.0 release!*
+
 # Roadmap
 
 ## Raylib-cs
 - [X] (Beginner) Getting started: Hello World
 - [X] (Beginner) Debugging
-- [ ] (Beginner) Textures
+- [x] (Beginner) Textures
 - [ ] (Beginner) Audio
 - [ ] (Beginner) Input
 - [ ] (Beginner) C to C# guide

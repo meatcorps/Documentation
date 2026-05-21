@@ -16,6 +16,10 @@ This guide is here to help developers get started with Raylib-cs and use it in p
 
 Below you can find all sections in this guide. Each group is divided by difficulty level. Experience points, you could say :P
 
+## Release notes
+
+- [7.0.2 to 8.0.0 Upgrade to Raylib 6.0!](raylibcs/release55to60.md)
+
 ## Beginner
 
 - [Getting started: Hello World](raylibcs/gettingstarted.md)
