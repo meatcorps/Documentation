@@ -351,7 +351,7 @@ FilePathList LoadDirectoryFiles(string dirPath);
 /// <summary>Get the file count in a directory</summary>
 int GetDirectoryFileCount(string dirPath);
 
-/// <summary>Load directory filepaths with extension filtering and subdir scan; some filters available: "*.*", "FILES*", "DIRS*"</summary>
+/// <summary>Get the file count in a directory with extension filtering and recursive directory scan. Use 'DIR' in the filter string to include directories in the result</summary>
 int GetDirectoryFileCountEx(string dirPath, string filter, CBool scanSubdirs);
 
 /// <summary>Load directory filepaths with extension filtering and subdir scan; some filters available: "*.*", "FILES*", "DIRS*"</summary>
