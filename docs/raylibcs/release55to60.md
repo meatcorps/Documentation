@@ -12,7 +12,7 @@ The library targets now .NET 8.0 and .NET 10.0. Why not 11.0? Because 8 and 10 a
 
 ### Shaders: ShaderLocationIndex enum
 
-In the enum, `BoneMatrices` is removed and replaced with `BoneTransforms` and `BoneInstanceTransform`.
+In the enum, `BoneMatrices` is removed and replaced with `MatrixBoneTransforms` and `VertexBoneInstanceTransform`.
 
 ### Models: Model struct
 
