@@ -12,6 +12,8 @@ nav:
     - Raylib-cs Practical Debugging Tips: raylibcs/debugging.md
     - Raylib-cs Textures for 2D games and simple animations: raylibcs/textures.md
     - Raylib-cs Post-processing stack: raylibcs/postprocessing.md
+  - R3D.NET:
+    - R3D.NET 0.9.1 unofficial Cheatsheet: r3dnet/r3dnetcheatsheet.md
 theme:
   name: mkdocs
   language: en
