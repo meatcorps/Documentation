@@ -2,8 +2,8 @@
 
 ![Raylibcs.jpg](Raylibcs.jpg)
 
-## Before we start: important notice!
-At the time of writing, 21 May 2026, the package is not released yet. But because I helped with a large chunk of the upgrade, I thought: let's share what is coming!
+## Official release notes
+Here you can find the official release notes for Raylib-cs 8.0.0: [Click here](https://github.com/raylib-cs/raylib-cs/releases/tag/v8.0.0)
 
 ## Before we start:
 The library targets now .NET 8.0 and .NET 10.0. Why not 11.0? Because 8 and 10 are the latest LTS versions.
